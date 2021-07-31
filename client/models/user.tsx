@@ -17,9 +17,6 @@ const initialUser: User = {
   lastName: '',
   email: '',
   isAdmin: false,
-  isPropertyOwner: false,
-  isLoggedIn: false,
-  passwordReset: true
 }
 
 const user: UserModel = {
